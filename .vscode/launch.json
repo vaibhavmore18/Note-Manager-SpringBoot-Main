@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-NotemanagerApplication<notemanager>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.nabla.notemanager.notemanager.NotemanagerApplication",
+            "projectName": "notemanager",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

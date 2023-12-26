@@ -1,0 +1,17 @@
+[
+  {
+    "note_title": "Note 1",
+    "note_description": "Description for Note 1",
+    "category_name": "project_task"
+  },
+  {
+    "note_title": "Note 2",
+    "note_description": "Description for Note 2",
+    "category_name": "meetings"
+  },
+  {
+    "note_title": "Note 3",
+    "note_description": "Description for Note 3",
+    "category_name": "other"
+  }
+]

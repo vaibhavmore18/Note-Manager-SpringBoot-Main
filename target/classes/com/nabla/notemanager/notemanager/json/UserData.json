@@ -1,0 +1,18 @@
+[
+    {
+      "username": "alice_smith",
+      "password_hash": "hashed_password_1"
+    },
+    {
+      "username": "bob_jones",
+      "password_hash": "hashed_password_2"
+    },
+    {
+      "username": "charlie_doe",
+      "password_hash": "hashed_password_3"
+    },
+    {
+        "username": "john_doe",
+        "password_hash": "hashed_password_3"
+    }
+  ]
